@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LbqC738rFhI=",
+  "dgSpecHash": "4pc36mq/VXM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aakash Metti\\source\\repos\\TrademeAssesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\TradeMe.Api.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Aakash Metti\\source\\repos\\Trademe_Assesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\TradeMe.Api.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aakash Metti\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Aakash Metti\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",

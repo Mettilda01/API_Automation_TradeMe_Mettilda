@@ -2133,11 +2133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aakash Metti\\source\\repos\\TrademeAssesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\TradeMe.Api.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Aakash Metti\\source\\repos\\Trademe_Assesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\TradeMe.Api.Tests.csproj",
       "projectName": "TradeMe.Api.Tests",
-      "projectPath": "C:\\Users\\Aakash Metti\\source\\repos\\TrademeAssesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\TradeMe.Api.Tests.csproj",
+      "projectPath": "C:\\Users\\Aakash Metti\\source\\repos\\Trademe_Assesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\TradeMe.Api.Tests.csproj",
       "packagesPath": "C:\\Users\\Aakash Metti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aakash Metti\\source\\repos\\TrademeAssesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Aakash Metti\\source\\repos\\Trademe_Assesment\\Trademe\\TradeMe.Api.Tests\\TradeMe.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

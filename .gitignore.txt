@@ -1,0 +1,38 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Rider IDE files
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Node/NPM (if using any JS scripts)
+node_modules/
+
+# Environment files
+.env
